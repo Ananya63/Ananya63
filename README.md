@@ -1,6 +1,8 @@
+<img align="center" src="https://github.com/Ananya63/AnanyaSL/blob/main/video/banner.gif">
+
 <h1 align="center">Hi 👋, I'm Ananya Saha</h1>
-<h3 align="center">Final year CSE student</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<h3 align="center">Final year CSE Student</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 - 🌱 I’m currently learning **AI**
