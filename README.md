@@ -1,8 +1,8 @@
-<img align="center" src="https://github.com/Ananya63/Ananya63/blob/main/gifs/banner.gif">
+<img align="center" src="https://raw.githubusercontent.com/Ananya63/Ananya63/output/gifs/banner.gif">
 
 <h1 align="center">Hi 👋, I'm Ananya Saha</h1>
 <h3 align="center">Final year CSE Student</h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/Ananya63/Ananya63/blob/main/gifs/working.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 - 🌱 I’m currently learning **AI**
