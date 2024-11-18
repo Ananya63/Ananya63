@@ -1,7 +1,7 @@
 <img align="center" src="https://github.com/Ananya63/Ananya63/blob/main/gifs/banner.gif">
 
 <h1 align="center">Hi 👋, I'm Ananya Saha</h1>
-<h3 align="center">Final year CSE Student</h3>
+<h3 align="center">1st year CSE PG Student (JU)</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/Ananya63/Ananya63/blob/main/gifs/working.gif">
 
 
